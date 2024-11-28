@@ -80,4 +80,9 @@ Directory discovery completed in 5.72 seconds
 - Adjust the ```maxConcurrency``` value to control the number of simultaneous requests.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to the contributors for their valuable feedback and improvements.
